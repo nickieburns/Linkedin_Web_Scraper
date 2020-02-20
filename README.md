@@ -1,4 +1,4 @@
-This code is a scaled down version of the tutorial found at the link below.
+This code is a scaled down version of the tutorial found at this link:
 https://medium.com/analytics-vidhya/web-scraping-with-scrapy-and-selenium-6dd4f3fbcd15
 
 INPUT: CSV with two fields -- (1) name and (2) linkedin profile URL
