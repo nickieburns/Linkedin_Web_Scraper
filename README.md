@@ -5,4 +5,4 @@
 ### NOTE: This is a scaled-down version of the following tutorial:
 https://medium.com/analytics-vidhya/web-scraping-with-scrapy-and-selenium-6dd4f3fbcd15
 
-### NOTE: The INPUT CSV is not included in this repository.  This is intended to be used as a template.
+### NOTE: The INPUT CSV is not included in this repository.  
